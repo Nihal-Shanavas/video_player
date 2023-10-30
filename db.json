@@ -1,0 +1,98 @@
+{
+  "videos": [
+    {
+      "id": "loblbo90",
+      "caption": "Ghaltana",
+      "cover_image": "https://i.ytimg.com/vi/ZulwKDO-6B4/maxresdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/ZulwKDO-6B4?autoplay=1"
+    },
+    {
+      "id": "loblf4dr",
+      "caption": "Khabib: The Movie",
+      "cover_image": "https://images2.minutemediacdn.com/image/upload/c_crop,w_2521,h_1418,x_0,y_1149/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/images/GettyImages/mmsport/505/01hc0j71wjqzv3gtqqw7.jpg",
+      "video_url": "https://www.youtube.com/embed/cMsun6_7jA8?autoplay=1"
+    },
+    {
+      "id": "loblk4xu",
+      "caption": "Breaking Bad | Change",
+      "cover_image": "https://www.rollingstone.com/wp-content/uploads/2022/04/TCDBRBA_EC027.jpg?w=1581&h=1054&crop=1",
+      "video_url": "https://www.youtube.com/embed/h4X48k3lzYo?autoplay=1"
+    }
+  ],
+  "categories": [
+    {
+      "id": 2,
+      "name": "music",
+      "videos": [
+        {
+          "id": 2,
+          "caption": " Guli Mata",
+          "cover_image": "https://i.ytimg.com/vi/Gp1RNYBckBs/maxresdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/Gp1RNYBckBs?autoplay=1"
+        },
+        {
+          "id": "loblbo90",
+          "caption": "Ghaltana",
+          "cover_image": "https://i.ytimg.com/vi/ZulwKDO-6B4/maxresdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/ZulwKDO-6B4?autoplay=1"
+        },
+        {
+          "id": "lobldls1",
+          "caption": "Kung Fu Panda",
+          "cover_image": "https://occ-0-2794-2219.1.nflxso.net/dnm/api/v6/E8vDc_W8CLv7-yMQu8KMEC7Rrr8/AAAABduFRBhx6t-Dhqq_nz4teWtFQs7rpEnkYggmaKnJ1jjtbaGGqVSTZi1OfHu6DkmLzO7d5bXlhKYE1Eu6jrJoaO64l0uKJY2YEHJb.jpg?r=109",
+          "video_url": "https://www.youtube.com/embed/e9p4Epkqv0k?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo81qv9g",
+      "video_title": "Ferrari, Trailer",
+      "url": "https://www.youtube.com/embed/8oOVNMjM1Jk?autoplay=1",
+      "date": "2023-10-27 8:51:24 AM"
+    },
+    {
+      "id": "lob98c1i",
+      "video_title": "Imagine Dragons",
+      "url": "https://www.youtube.com/embed/TO-_3tck2tg?autoplay=1",
+      "date": "2023-10-29 2:44:15 PM"
+    },
+    {
+      "id": "lob9akqq",
+      "video_title": "Imagine Dragons",
+      "url": "https://www.youtube.com/embed/TO-_3tck2tg?autoplay=1",
+      "date": "2023-10-29 2:46:00 PM"
+    },
+    {
+      "id": "lob9dk3h",
+      "video_title": "Lamaallem",
+      "url": "https://www.youtube.com/embed/_Fwf45pIAtM?autoplay=1",
+      "date": "2023-10-29 2:48:19 PM"
+    },
+    {
+      "id": "lobaxy7g",
+      "video_title": "skills-Cristiano Ronaldo",
+      "url": "https://www.youtube.com/embed/bdPvE4QpgqM?autoplay=1",
+      "date": "2023-10-29 3:32:10 PM"
+    },
+    {
+      "id": "loccgxuk",
+      "video_title": "Khabib: The Movie",
+      "url": "https://www.youtube.com/embed/cMsun6_7jA8?autoplay=1",
+      "date": "2023-10-30 9:02:41 AM"
+    },
+    {
+      "id": "loccvwdp",
+      "video_title": "Breaking Bad | Change",
+      "url": "https://www.youtube.com/embed/h4X48k3lzYo?autoplay=1",
+      "date": "2023-10-30 9:14:19 AM"
+    },
+    {
+      "id": "loccw1ws",
+      "video_title": "Khabib: The Movie",
+      "url": "https://www.youtube.com/embed/cMsun6_7jA8?autoplay=1",
+      "date": "2023-10-30 9:14:27 AM"
+    }
+  ]
+}
